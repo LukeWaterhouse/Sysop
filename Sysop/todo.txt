@@ -1,0 +1,12 @@
+﻿//TODO
+
+
+* make a slice for creating a ticket
+
+DO TEST DRIVEN DEVELOPMENT IN EACH LAYER
+
+outside in tdd? start with an integration test for full slice, build out that slice with regular unit tests.
+
+Google outside in tdd
+
+read about the stuff mentioned in comments in Appointment.cs
